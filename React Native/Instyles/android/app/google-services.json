@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213974724368",
+    "project_id": "instyls-30204",
+    "storage_bucket": "instyls-30204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213974724368:android:9ab883ef2fb408c28cbf95",
+        "android_client_info": {
+          "package_name": "com.instyls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213974724368-53tniblfqb0nu5h65apbit3u6f1ubv4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6FZcGtwufQU7te8XTwGEz96_OhKCz_DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213974724368-53tniblfqb0nu5h65apbit3u6f1ubv4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
